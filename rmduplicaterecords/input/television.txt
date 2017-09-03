@@ -1,0 +1,18 @@
+Samsung|Optima|14|Madhya Pradesh|132401|14200
+Onida|Lucid|18|Uttar Pradesh|232401|16200
+Akai|Decent|16|Kerala|922401|12200
+Lava|Attention|20|Assam|454601|24200
+Zen|Super|14|Maharashtra|619082|9200
+Samsung|Optima|14|Madhya Pradesh|132401|14200
+Onida|Lucid|18|Uttar Pradesh|232401|16200
+Onida|Decent|14|Uttar Pradesh|232401|16200
+Onida|NA|16|Kerala|922401|12200
+Lava|Attention|20|Assam|454601|24200
+Zen|Super|14|Maharashtra|619082|9200
+Samsung|Optima|14|Madhya Pradesh|132401|14200
+NA|Lucid|18|Uttar Pradesh|232401|16200
+Samsung|Decent|16|Kerala|922401|12200
+Lava|Attention|20|Assam|454601|24200
+Samsung|Super|14|Maharashtra|619082|9200
+Samsung|Super|14|Maharashtra|619082|9200
+Samsung|Super|14|Maharashtra|619082|9200
